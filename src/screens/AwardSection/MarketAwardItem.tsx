@@ -16,12 +16,12 @@ const MarketAwardItemText = styled.p`
   color: rgba(58, 58, 58, 0.8);
   font-weight: bold;
   padding-left: 4px;
-  padding: 5px 0 5px 6px; 
+  padding: 5px 0 5px 6px;
 `;
 
 
 interface MarketAwardItemProps {
-  marketLogo: string,
+  marketLogo: string;
 }
 
 
